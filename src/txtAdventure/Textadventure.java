@@ -295,7 +295,7 @@ public class Textadventure {
 					"| |\\ \\ _| |_| |_\\ \\| | | | | |     | | | |\\ \\| | | |_| |_| |____\r\n" + 
 					"\\_| \\_|\\___/ \\____/\\_| |_/ \\_/     \\_/ \\_| \\_\\_| |_/\\___/\\_____/\r\n" + 
 					"                                                                ");
-			System.out.println("you took a wrong turn and you have died);
+			System.out.println("you took a wrong turn and you have died");
 					   break;
 		}
 		public static void LeftTrail(Scanner input) {
